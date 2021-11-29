@@ -2,7 +2,7 @@
 
 This project contains code, data, and analysis of the performance of value-iteration, policy-iteration, and Q-learning algorithms on 2 MDPs (Frozen Lake 8x8 and Forest Management (2000 states).
 
-To run this code please first install the specified packages below, and clone the github repo for the MDPtoolbox (https://github.com/hiive/hiivemdptoolbox). Finally, clone the github repo at https://gith and run the Assignment 4 - Markov Decision Processes jupyter notebook.
+To run this code please first install the specified packages below, and clone the github repo for the MDPtoolbox (https://github.com/hiive/hiivemdptoolbox). Finally, clone the github repo at https://github.com/mbhimasani/Assignment-4 and run the Assignment 4 - Markov Decision Processes jupyter notebook.
 
 This code was developed with python 3.6.8. It is highly recommended to use the version that this code was developed.
 Libraries required along with version number:
